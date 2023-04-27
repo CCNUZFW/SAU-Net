@@ -1,4 +1,4 @@
-# SAU-Net: Saliency-based Adaptive Unfolding Network for Interpretable High Quality Image Compressed Sensing
+# SAU-Net: Saliency-based Adaptive Unfolding Network for Interpretable High Quality Image Compressed Remote Sensing
 
 ## About 
 This is an implementation of the SAU-Net model referring to the following paper: SAU-Net: Saliency-based Adaptive Unfolding Network for Interpretable High Quality Image Compressed Remote Sensing
