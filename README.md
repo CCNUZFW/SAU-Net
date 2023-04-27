@@ -19,7 +19,7 @@ numpy == 1.21.5</br>
 ## Datasets
 1. The training set in this paper is the brightness components of 25600 images extracted 428 from T91 and Train400 with a size of 128×128.The testing sets in this paper are Set11 and BSD68.
 
-2. The preprocessed training set file [Training_Data_size128_CS_T91andTrain400.mat] is put into `./data`. If not, please download it from (https://).
+2. The preprocessed training set file [Training_Data_size128_CS_T91andTrain400.mat] is put into `./data`. 
 
 3. The testing sets are placed in `./data/Set11` and `./data/BSD68`. 
 
